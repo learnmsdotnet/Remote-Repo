@@ -1,0 +1,4 @@
+App.config
+*.exe
+*.pdb
+Learn.CSharp.Client.dll
