@@ -1,0 +1,7 @@
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\bin\Debug\FirstProject.exe.config
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\bin\Debug\FirstProject.exe
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\bin\Debug\FirstProject.pdb
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\obj\Debug\FirstProject.exe
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\obj\Debug\FirstProject.pdb
+D:\Users\Maruthi\Desktop\training\Day02\StartingDotNet\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache

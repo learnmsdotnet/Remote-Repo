@@ -1,0 +1,1 @@
+﻿https://gist.github.com/AdamAlinauskas/4705026

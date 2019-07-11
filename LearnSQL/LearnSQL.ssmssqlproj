@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LearnSQL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="PC238395:PC238395\Maruthi">
+          <Created>2019-04-09T06:27:06.5168834+05:30</Created>
+          <Type>SQL</Type>
+          <Server>PC238395</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>DEMOCSHARP</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SProc_Insert_Update_EmpInfo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_Insert_Update_EmpInfo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SProc_InsertCustomer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_InsertCustomer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SProc_InsertProduct.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_InsertProduct.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SProc_Select_Customers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_Select_Customers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SProc_SelectProduct.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_SelectProduct.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SProc_SelectSpecificProduct.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_SelectSpecificProduct.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tsql_Create_Insert_Customers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tsql_Create_Insert_Customers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tsql_CreateTable_StudentList.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tsql_CreateTable_StudentList.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tSQL_Query.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tSQL_Query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SProc_CURDActions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SProc_CURDActions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tsql_adoQueries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tsql_adoQueries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tsql_CreateDatabase_LEARNDBMP01.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tsql_CreateDatabase_LEARNDBMP01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tsql_CreateTable_Student.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC238395:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC238395</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tsql_CreateTable_Student.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,88 @@
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\Users\Maruthi\Desktop\training\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojResolveAssemblyReference.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojAssemblyReference.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojAssemblyReference.cache
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp Taining GG\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojResolveAssemblyReference.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojAssemblyReference.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\04.OneDriveLive\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojResolveAssemblyReference.cache
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\07.OnlineSAN\OneDrive\Personal\01.CSharpTraining\01.CSharpTraining\Microsoft CSharp\HandsOnLab\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojAssemblyReference.cache
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.deps.json
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.json
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.runtimeconfig.dev.json
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.dll
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\bin\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csproj.CoreCompileInputs.cache
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfoInputs.cache
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.AssemblyInfo.cs
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.dll
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.pdb
+D:\14.Training\44.PP CSharp\01.HandsOnLab\Local-Repo4\LearnCollection\obj\Debug\netcoreapp2.1\LearnCollection.csprojAssemblyReference.cache

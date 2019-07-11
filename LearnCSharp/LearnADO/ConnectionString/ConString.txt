@@ -1,0 +1,23 @@
+﻿Connection String Understanding:
+
+Example of Connection string with Windows based Authentication:
+---------------------------------------------------------------
+
+Data Source=PC238395;Initial Catalog=LEARNDBMP01;Integrated Security=True;Pooling=False
+
+Data Source=PC238395;				//where is the SQL server or the name of the server where SQL Server database is hosted
+Initial Catalog=LEARNDBMP01;		//this is the name of the database
+Integrated Security=True;			//authentication information about how to connect the database (connect using credentials which we used to connect the system/server)
+Pooling=False						//hosting (at later stage) - its optional 
+
+Example of Connection string with SQL based Authentication:
+-----------------------------------------------------------
+
+Data Source=PC238395;Initial Catalog=LEARNDBMP01;Integrated Security=False;uid=sa;password=Pa$$w0rd;Pooling=False
+
+Data Source=PC238395;				//Name of the SQL Server to connect (Server Name)
+Initial Catalog=LEARNDBMP01;		//Name of the Database to connect
+Integrated Security=False;			//Authentication type: false (not going to use windows based authentication)
+uid=sa;								//Using which user id should we connect SQL Server
+password=Pa$$w0rd;					//the password of the user id to connect
+Pooling=False						//hosting (at later stage) - its optional 

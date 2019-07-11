@@ -1,0 +1,35 @@
+﻿@model System.Data.DataTable
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<br />
+@*table-bordered: to add border style for the table*@
+@*table-striped: add alternative grey color for rows add this class*@
+<table class="table table-bordered table-striped">
+    <tr>
+        @*table headers in first row*@
+        <th>Name</th>
+        <th>Price</th>
+        <th>Date</th>
+        <th>Actions</th>
+    </tr>
+    @for (int count = 0; count < Model.Rows.Count; count++) {
+        <tr>
+            <td>@Model.Rows[count][1]</td>
+            <td>@Model.Rows[count][2]</td>
+            <td>@Model.Rows[count][3]</td>
+            @* Action Method Name (Edit), then Controller Name (Product), then pass the id *@
+        <td>
+            <a href="@Url.Action("Edit", "Product", new { @id = @Model.Rows[count][0]})">Edit</a> | 
+            <a href="@Url.Action("Delete", "Product", new { @id = @Model.Rows[count][0]})">Delete</a>
+        </td>
+        </tr>
+    }
+</table>
+
+@*here the first parameter will be action name: Create then second parameter as controller name: Product*@
+@*the anchor text will be - Add Product*@
+<a href="@Url.Action("Create", "Product")">Add Product</a>

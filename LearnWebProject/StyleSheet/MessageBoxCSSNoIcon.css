@@ -1,0 +1,24 @@
+﻿.pp_info, .pp_success, .pp_warning, .pp_error {
+    margin: 10px 0px;
+    padding: 12px;
+}
+
+.pp_info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+
+.pp_success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+
+.pp_warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.pp_error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+}

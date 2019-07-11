@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\04.OneDriveLive\\OneDrive\\Personal\\01.CSharpTraining\\01.CSharpTraining\\Microsoft CSharp\\HandsOnLab\\LearnCSharp\\LearnCSharp.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

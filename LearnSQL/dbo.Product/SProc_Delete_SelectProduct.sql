@@ -1,0 +1,5 @@
+﻿USE [LEARNDBMP01];
+GO
+
+DROP PROCEDURE dbo.SProc_SelectProduct;
+GO
