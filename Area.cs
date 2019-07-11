@@ -1,4 +1,5 @@
-﻿public class Area
+﻿//Class Name: Area
+public class Area
 {
     public int a;
     public int b;
